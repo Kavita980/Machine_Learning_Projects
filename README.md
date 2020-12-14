@@ -1,4 +1,4 @@
-# All_Machine_Learning_python
+# Machine_Learning_Projects
 
-This folder is well organized folder which contains Template of all the major Machine Learning Algorithms.
+This repository contains templates of all the major Machine Learning Algorithms.
 
